@@ -7,8 +7,9 @@ public class Student {
 	}
 	
 	//Change the name dev-1
+	//Done sit
 	public String name() {
-		return "Dr BalChal";
+		return "S M Hilal";
 	}
 	
 
