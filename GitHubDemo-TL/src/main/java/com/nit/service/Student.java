@@ -6,7 +6,10 @@ public class Student {
 		return 23+34;
 	}
 	
+	//Change the name dev-1
 	public String name() {
 		return "Dr BalChal";
 	}
+	
+
 }
